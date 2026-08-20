@@ -2,18 +2,6 @@
 
 This repository contains my **Database Management System (DBMS) Experiment** work, including ER diagrams and related database concepts.
 
-## 📌 Project Overview
-
-The purpose of this repository is to practice and demonstrate important DBMS concepts such as:
-
-- ER (Entity-Relationship) Diagrams
-- Entities and Attributes
-- Relationships
-- Primary Keys and Foreign Keys
-- Relational Schema
-- SQL Queries
-- Database Constraints
-- Referential Integrity
 
 ## 📂 Files
 
@@ -25,10 +13,6 @@ The purpose of this repository is to practice and demonstrate important DBMS con
 ## 🗂️ ER Diagram
 
 The ER diagram represents the entities, attributes, and relationships used in the database design.
-
-### Diagram
-
-![DBMS ER Diagram](DBMS.drawio.png)
 
 ## 🛠️ Technologies Used
 
